@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "peconvert"
 version = "0.1.0"
 description = "windows portable executable to image"
-requires-python = ">=3.14"
+requires-python = ">=3.12"
 dependencies = [
     "pillow>=12.2.0",
     "numpy>=2.4.6",

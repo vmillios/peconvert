@@ -34,6 +34,9 @@ convert("<source>", "<target>", Image.<TYPE>)
 - BIGRAMS
 - SPIRAL
 - HIT
+- EMBER
+
+_`note:` ember is in json format I know its not an image but I need it for my thesis_
 
 to specify what kind of method you want used
 

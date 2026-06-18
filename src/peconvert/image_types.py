@@ -8,3 +8,4 @@ class ImageTypes(Enum):
     BIGRAMS = auto()
     SPIRAL = auto()
     HIT = auto()
+    EMBER = auto()
